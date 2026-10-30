@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NUCLEO-F411RE")(type "KiCad")(uri "${KIPRJMOD}/imports/NUCLEO-F411RE/NUCLEO-F411RE.kicad_sym")(options "")(descr ""))
+  (lib (name "C320C104K5R5TA")(type "KiCad")(uri "${KIPRJMOD}/imports/ul_C320C104K5R5TA/KiCADv6/2026-01-20_18-38-16.kicad_sym")(options "")(descr ""))
+  (lib (name "EG1218")(type "KiCad")(uri "${KIPRJMOD}/imports/ul_EG1218/KiCADv6/2026-01-20_19-31-36.kicad_sym")(options "")(descr ""))
+  (lib (name "INL-5AMIR15")(type "KiCad")(uri "${KIPRJMOD}/imports/ul_INL-5AMIR15/KiCADv6/2026-01-20_06-43-17.kicad_sym")(options "")(descr ""))
+  (lib (name "L293D")(type "KiCad")(uri "${KIPRJMOD}/imports/ul_L293D/KiCADv6/2026-01-20_19-00-08.kicad_sym")(options "")(descr ""))
+  (lib (name "SFH-313-FA-3-4")(type "KiCad")(uri "${KIPRJMOD}/imports/ul_SFH-313-FA-3-4/KiCADv6/2026-01-20_06-49-37.kicad_sym")(options "")(descr ""))
+  (lib (name "L293D-2")(type "KiCad")(uri "${KIPRJMOD}/imports/L293D/L293D.kicad_sym")(options "")(descr ""))
+  (lib (name "440054-2")(type "KiCad")(uri "${KIPRJMOD}/imports/440054_2/440054-2.kicad_sym")(options "")(descr ""))
+  (lib (name "BM06B-SRSS2026-02-28_01-37-12")(type "KiCad")(uri "${KIPRJMOD}/imports/ul_BM06B-SRSS-TB-LF-SN-/2026-02-28_01-37-12.kicad_sym")(options "")(descr ""))
+  (lib (name "500SSP1S2M2QEA")(type "KiCad")(uri "${KIPRJMOD}/500SSP1S2M2QEA/500SSP1S2M2QEA.kicad_sym")(options "")(descr ""))
+)

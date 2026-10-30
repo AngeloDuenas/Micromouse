@@ -1,0 +1,136 @@
+(footprint "301 Gearmotor MP 6V 2378"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1342cf44-1de3-4a1d-9d3b-238aa895aa88")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "301 Gearmotor MP 6V 2378"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e54b985f-7231-44b5-8a34-9b1160678cc7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af74d4f8-f9bf-4e7e-9d25-f567fe961ca0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b24713b6-c0d3-4182-a978-d4ae2ed23245")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start 0 0)
+		(end 12 16.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1f54aefb-0ad0-4680-acd2-e1c683e21722")
+	)
+	(fp_rect
+		(start 0 0)
+		(end 12 16.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1f54aefb-0ad0-4680-acd2-e1c683e21722")
+	)
+	(fp_rect
+		(start 0 16.6)
+		(end 12 25.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "82aa465a-b0ef-4296-a155-58ea221f358f")
+	)
+	(fp_rect
+		(start 0 16.6)
+		(end 12 25.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "82aa465a-b0ef-4296-a155-58ea221f358f")
+	)
+	(fp_rect
+		(start 5 25.6)
+		(end 7 35.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "cb890f5f-fa10-4912-876e-52252666c30e")
+	)
+	(fp_rect
+		(start 5 25.6)
+		(end 7 35.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "cb890f5f-fa10-4912-876e-52252666c30e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2ffac2b7-1fb9-4d8e-8432-afa818883639")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
